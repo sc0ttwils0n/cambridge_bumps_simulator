@@ -28,5 +28,5 @@ There are buttons to select either the men's or women's divisions, to select whi
 Again, results are input by clicking on the row of the crew to bump, within a specific day's column. The crews to be swapped will be highlighted.
 Behaviour of bumps obeys distinct divisions, with only the sandwich boat being able to move between these each day. The crew which finishes a lower division as sandwich boat in one day will then have the possibility for a second race, where they can now move upwards.
 
-Full details on the
+Full details on May Bumps and its rules can be found on the [CUCBC website](https://www.cucbc.org/bumps).
 
